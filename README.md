@@ -2,7 +2,7 @@
 Using Multiple Machine Learning Models
 <div align="center">
   <h1>
-    <strong>Heart Disease Predictor</strong>
+    <strong>Heart Disease Prediction</strong>
     <img src="https://media.giphy.com/media/l6JC0IxMDIS4QrUxO5/giphy.gif" height="30" width="30px" alt="Medical Symbol">
   </h1>
   
