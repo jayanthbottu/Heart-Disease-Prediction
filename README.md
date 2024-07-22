@@ -4,7 +4,7 @@ Using Multiple Machine Learning Models
   <h1>
     <img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/img/symbols/heart.png" width="40px" alt="Heart">
     <strong>Heart Disease Predictor</strong>
-    <img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/img/symbols/medical_symbol.png" width="40px" alt="Medical Symbol">
+    <img src="https://media.giphy.com/media/l6JC0IxMDIS4QrUxO5/giphy.gif" width="40px" alt="Medical Symbol">
   </h1>
   
   <p><i>Predicting heart disease using multiple machine learning models</i></p>
